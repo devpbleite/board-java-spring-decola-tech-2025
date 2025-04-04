@@ -49,12 +49,8 @@ O projeto Board API é uma aplicação de gerenciamento de tarefas desenvolvida 
 2. Configure o banco de dados no arquivo `application.properties` (para desenvolvimento, o H2 já está configurado)
 
 3. Execute a aplicação:
-   ```bash
-# Linux/Mac
-./gradlew bootRun
-
-# Windows
-gradlew.bat bootRun
+ ```bash
+  gradlew.bat bootRun
    ```
 
 
