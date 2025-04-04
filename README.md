@@ -50,7 +50,7 @@ O projeto Board API é uma aplicação de gerenciamento de tarefas desenvolvida 
 
 3. Execute a aplicação:
    ```bash
-   # Linux/Mac
+# Linux/Mac
 ./gradlew bootRun
 
 # Windows
