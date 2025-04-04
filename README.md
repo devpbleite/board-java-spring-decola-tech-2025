@@ -46,7 +46,7 @@ O projeto Board API é uma aplicação de gerenciamento de tarefas desenvolvida 
    cd board-java-spring-decola-tech-2025
    ```
 
-2. Configure o banco de dados no arquivo `application.properties` (para desenvolvimento, o H2 já está configurado)
+2. Configure o banco de dados no arquivo `liquibase.properties`
 
 3. Execute a aplicação:
  ```bash
